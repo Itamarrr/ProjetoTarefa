@@ -108,3 +108,4 @@ C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presen
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\obj\Debug\net5.0\ProjetoMVC01.Presentation.RazorTargetAssemblyInfo.cs
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\obj\Debug\net5.0\ProjetoMVC01.Presentation.Views.pdb
+C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Layout.cshtml.g.cs
