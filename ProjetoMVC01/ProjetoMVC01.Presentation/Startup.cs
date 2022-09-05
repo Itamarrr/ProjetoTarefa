@@ -30,6 +30,9 @@ namespace ProjetoMVC01.Presentation
                 app.UseDeveloperExceptionPage();
             }
 
+            //habilitar a pasta /wwwroot
+            app.UseStaticFiles();
+
             app.UseRouting();
 
             //mapeando a página inicial do projeto
