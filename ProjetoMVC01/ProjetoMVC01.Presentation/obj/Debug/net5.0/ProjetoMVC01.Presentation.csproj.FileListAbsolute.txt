@@ -85,6 +85,7 @@ C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presen
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\obj\Debug\net5.0\ProjetoMVC01.Presentation.csproj.AssemblyReference.cache
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\obj\Debug\net5.0\ProjetoMVC01.Presentation.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\obj\Debug\net5.0\ProjetoMVC01.Presentation.AssemblyInfoInputs.cache
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\obj\Debug\net5.0\ProjetoMVC01.Presentation.AssemblyInfo.cs
@@ -99,6 +100,7 @@ C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presen
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\obj\Debug\net5.0\ProjetoMVC01.Presentation.TagHelpers.output.cache
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\obj\Debug\net5.0\ProjetoMVC01.Presentation.RazorCoreGenerate.cache
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Layout.cshtml.g.cs
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\obj\Debug\net5.0\ProjetoMVC01.Presentation.RazorTargetAssemblyInfo.cache
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\obj\Debug\net5.0\ProjetoMVC01.Presentation.RazorTargetAssemblyInfo.cs
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\obj\Debug\net5.0\ProjetoMVC01.Presentation.Views.pdb
@@ -107,5 +109,3 @@ C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presen
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\obj\Debug\net5.0\ref\ProjetoMVC01.Presentation.dll
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\obj\Debug\net5.0\ProjetoMVC01.Presentation.pdb
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\obj\Debug\net5.0\ProjetoMVC01.Presentation.genruntimeconfig.cache
-C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\obj\Debug\net5.0\ProjetoMVC01.Presentation.csproj.AssemblyReference.cache
-C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01\ProjetoMVC01.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Layout.cshtml.g.cs
