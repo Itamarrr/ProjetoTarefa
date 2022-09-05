@@ -6238,11 +6238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hitss\\Documents\\Projetos\\ProjetoTarefa\\ProjetoMVC01\\ProjetoMVC01.Presentation\\ProjetoMVC01.Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\Hitss\\Documents\\Projetos\\ProjetoTarefa\\ProjetoMVC01.Presentation\\ProjetoMVC01.Presentation.csproj",
       "projectName": "ProjetoMVC01.Presentation",
-      "projectPath": "C:\\Users\\Hitss\\Documents\\Projetos\\ProjetoTarefa\\ProjetoMVC01\\ProjetoMVC01.Presentation\\ProjetoMVC01.Presentation.csproj",
+      "projectPath": "C:\\Users\\Hitss\\Documents\\Projetos\\ProjetoTarefa\\ProjetoMVC01.Presentation\\ProjetoMVC01.Presentation.csproj",
       "packagesPath": "C:\\Users\\Hitss\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hitss\\Documents\\Projetos\\ProjetoTarefa\\ProjetoMVC01\\ProjetoMVC01.Presentation\\obj\\",
+      "outputPath": "C:\\Users\\Hitss\\Documents\\Projetos\\ProjetoTarefa\\ProjetoMVC01.Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "al8E76j4kgXkS/PxxCDNe2EFYyZFmeAetkXbdFfLlFu4G1jdBTpD7szO+6GG4MvZc+GYVCnNIgST1agvb7ca3A==",
+  "dgSpecHash": "15BC+gaXOJXV0OzkBYXtes0beYzPH/NeBJphIiw66IdWuEHHGLxogYhB4VQ9vf6y0tmOhhJupQGuxcE4KAYZvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hitss\\Documents\\Projetos\\ProjetoTarefa\\ProjetoMVC01\\ProjetoMVC01.Presentation\\ProjetoMVC01.Presentation.csproj",
+  "projectFilePath": "C:\\Users\\Hitss\\Documents\\Projetos\\ProjetoTarefa\\ProjetoMVC01.Presentation\\ProjetoMVC01.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hitss\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Hitss\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
