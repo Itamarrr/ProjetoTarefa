@@ -16,6 +16,10 @@ namespace ProjetoMVC01.Presentation
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            //definir que o modo de navegação do projeto 
+            //web é MVC (Controllers e Views)
+            services.AddControllersWithViews();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -28,12 +32,17 @@ namespace ProjetoMVC01.Presentation
 
             app.UseRouting();
 
+            //mapeando a página inicial do projeto
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapGet("/", async context =>
-                {
-                    await context.Response.WriteAsync("Hello World!");
-                });
+                endpoints.MapControllerRoute(
+                    name: "defolt",
+                    pattern: "{controller=Home}/{action=Index}"                                      
+                    );
+                //endpoints.MapGet("/", async context => itamar tirou para poder ser iniciado atravez da controller HomeControlle
+                //{
+                //    await context.Response.WriteAsync("Hello World!");
+                //});
             });
         }
     }
