@@ -14,6 +14,7 @@ namespace ProjetoMVC01.Presentation
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+            IDictionary<int, string> dict = new Dictionary<int, string>();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
