@@ -7,7 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation Layer", "Prese
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository Layer", "Repository Layer", "{3E98C030-E75B-4E0D-A33B-89B946172510}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoMVC01.Presentation", "ProjetoMVC01.Presentation\ProjetoMVC01.Presentation.csproj", "{E344F3B6-FBE5-4576-9105-31CB388DE954}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoMVC01.Presentation", "ProjetoMVC01.Presentation\ProjetoMVC01.Presentation.csproj", "{E344F3B6-FBE5-4576-9105-31CB388DE954}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoMVC01.Repository", "ProjetoMVC01.Repository\ProjetoMVC01.Repository.csproj", "{6053DC0B-CE06-4B39-AC91-86AC70745C13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,12 +21,17 @@ Global
 		{E344F3B6-FBE5-4576-9105-31CB388DE954}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E344F3B6-FBE5-4576-9105-31CB388DE954}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E344F3B6-FBE5-4576-9105-31CB388DE954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6053DC0B-CE06-4B39-AC91-86AC70745C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6053DC0B-CE06-4B39-AC91-86AC70745C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6053DC0B-CE06-4B39-AC91-86AC70745C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6053DC0B-CE06-4B39-AC91-86AC70745C13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E344F3B6-FBE5-4576-9105-31CB388DE954} = {293F2457-25AA-437A-8CE0-BBBCA66D2810}
+		{6053DC0B-CE06-4B39-AC91-86AC70745C13} = {3E98C030-E75B-4E0D-A33B-89B946172510}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {58565AC4-F32C-4B97-9EBA-7B33BE89840C}

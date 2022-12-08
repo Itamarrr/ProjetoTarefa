@@ -116,7 +116,6 @@ C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\bin\De
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\bin\Debug\net5.0\ProjetoMVC01.Presentation.runtimeconfig.json
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\bin\Debug\net5.0\ProjetoMVC01.Presentation.runtimeconfig.dev.json
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\bin\Debug\net5.0\ProjetoMVC01.Presentation.dll
-C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\bin\Debug\net5.0\ref\ProjetoMVC01.Presentation.dll
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\bin\Debug\net5.0\ProjetoMVC01.Presentation.pdb
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\bin\Debug\net5.0\ProjetoMVC01.Presentation.Views.dll
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\bin\Debug\net5.0\ProjetoMVC01.Presentation.Views.pdb
@@ -205,7 +204,6 @@ C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\obj\De
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\obj\Debug\net5.0\ProjetoMVC01.Presentation.RazorAssemblyInfo.cache
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\obj\Debug\net5.0\ProjetoMVC01.Presentation.RazorAssemblyInfo.cs
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\obj\Debug\net5.0\staticwebassets\ProjetoMVC01.Presentation.StaticWebAssets.Manifest.cache
-C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\obj\Debug\net5.0\staticwebassets\ProjetoMVC01.Presentation.StaticWebAssets.xml
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\obj\Debug\net5.0\scopedcss\bundle\ProjetoMVC01.Presentation.styles.css
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\obj\Debug\net5.0\ProjetoMVC01.Presentation.TagHelpers.input.cache
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\obj\Debug\net5.0\ProjetoMVC01.Presentation.TagHelpers.output.cache
@@ -220,3 +218,5 @@ C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\obj\De
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\obj\Debug\net5.0\ref\ProjetoMVC01.Presentation.dll
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\obj\Debug\net5.0\ProjetoMVC01.Presentation.pdb
 C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\obj\Debug\net5.0\ProjetoMVC01.Presentation.genruntimeconfig.cache
+C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\bin\Debug\net5.0\ref\ProjetoMVC01.Presentation.dll
+C:\Users\Hitss\Documents\Projetos\ProjetoTarefa\ProjetoMVC01.Presentation\obj\Debug\net5.0\staticwebassets\ProjetoMVC01.Presentation.StaticWebAssets.xml
